@@ -1,5 +1,6 @@
 # network_intrustion_detecting_system
-## todat agenda
+## today agenda
 ### github basics
+### python setup
 ### ml intro
 ### application deployement
